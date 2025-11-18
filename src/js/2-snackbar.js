@@ -6,7 +6,6 @@ iziToast.show({
   message: 'Welcome',
   messageColor: '#FFF',
   backgroundColor: '#09F',
-  position: 'bottomRight',
 });
 
 const form = document.querySelector('.form');
